@@ -34,12 +34,13 @@ Exploring real-time graphics, procedural visuals, and experimental web interface
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/WebGL_Logo.svg" width="75" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" width="75" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+<img src="https://skillicons.dev/icons?i=express" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
 <img src="https://skillicons.dev/icons?i=cs" width="40"/>
 <img src="https://skillicons.dev/icons?i=godot" width="40"/>
 <img src="https://skillicons.dev/icons?i=git" width="40"/>
+
 </p>
 
 <details>
