@@ -43,7 +43,7 @@ Exploring real-time graphics, procedural visuals, and experimental web interface
 </p>
 
 <details>
-  <strong><summary>Journey</summary></strong>
+  <summary><strong>Journey</strong></summary>
 
   <br>
 
