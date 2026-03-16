@@ -1,4 +1,4 @@
-<h1 align="center">AXCE</h1>
+<h1 align="center">AXCE_INT</h1>
 
 <p align="center">
 <b>Indie Full-Stack Developer</b> | <b>WebGL Developer</b><br>
@@ -7,17 +7,22 @@ Computer Science Student
 
 ---
 
-<p align="center">
+<div align="center">
+
+```text
+AXCE
+Indie Full-Stack Developer | WebGL Developer
+Computer Science Student
+
 Indie full-stack developer focused on interactive web experiences and creative coding.
-</p>
 
-<p align="center">
-Building graphics-driven applications using <b>Three.js</b>, <b>WebGL</b>, and <b>TypeScript</b> while developing full-stack systems with <b>Next.js</b>, <b>Node.js</b>, <b>Express</b>, and <b>PostgreSQL</b>.
-</p>
+Building graphics-driven applications using Three.js, WebGL, and TypeScript while developing full-stack systems with Next.js, Node.js, Express, and PostgreSQL.
 
-<p align="center">
 Exploring real-time graphics, procedural visuals, and experimental web interfaces.
-</p>
+
+```
+
+</div>
 
 ---
 
