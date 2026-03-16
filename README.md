@@ -25,7 +25,7 @@ Exploring real-time graphics, procedural visuals, and experimental web interface
 <i>"Building spaces where code becomes experience."</i>
 </p>
 <p align="center"> <img src="./assets/banner.jpg" width="700"></p>
-<h1 align="center"> Tech Stack </h1>
+<h1 align="center"> Tools & Technologies</h1>
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
